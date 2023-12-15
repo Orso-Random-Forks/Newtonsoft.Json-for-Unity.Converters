@@ -1,17 +1,8 @@
 {
-  "scopedRegistries": [
-    {
-      "name": "Packages from jillejr",
-      "url": "https://npm.cloudsmith.io/jillejr/newtonsoft-json-for-unity/",
-      "scopes": [
-        "jillejr"
-      ]
-    }
-  ],
   "dependencies": {
     "com.unity.addressables": "1.18.19",
     "com.unity.package-manager-ui": "2.0.13",
-    "jillejr.newtonsoft.json-for-unity": "13.0.102",
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",
