@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters.git",
+    "url": "https://github.com/Orso-Random-Forks/Newtonsoft.Json-for-Unity.Converters.git",
     "directory": "Packages/Newtonsoft.Json-for-Unity.Converters"
   },
   "keywords": [
